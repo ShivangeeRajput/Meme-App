@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
             getMemeData()
         }
     }
-
+//creating function 
      fun getMemeData(){
 
          //creating progress bar with message
