@@ -18,7 +18,8 @@ import org.json.JSONObject
 class MainActivity : AppCompatActivity() {
 
     lateinit var binding: ActivityMainBinding
-
+//calling the API
+    //using volley library
     val url:String="https://meme-api.com/gimme"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
